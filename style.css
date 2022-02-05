@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background-size: cover;
+   
+}
+
+h1,h4{
+    color: white;
+}
+#ca{
+    border: 10px ridge white;
+    background-image: url("road-icon-cartoon-style-vector-15918014.jpg");
+    background-size: cover;
+}
